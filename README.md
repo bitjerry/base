@@ -36,7 +36,7 @@
 
 ## _Test example_
 ### encode
-```
+```C
 int main(){
 	unsigned char bit = 32;
 	char* table = "ABCDEFGHIJKLMNOPQRSTUVWXYZ234567";
@@ -50,7 +50,7 @@ int main(){
 ```
 > NB2HI4DTHIXS6Z3JORUHKYROMNXW2LY=
 ### decode
-```
+```c
 int main() {
 	unsigned char bit = 32;
 	char* table = "ABCDEFGHIJKLMNOPQRSTUVWXYZ234567";
@@ -60,8 +60,8 @@ int main() {
 	decode(str, strlen(str), result);
 	printf("%s", result);
 	return 0;
-}  //C
-``` //C
+}
+```
 > https://github.com/
 
 ## _Precautions_
