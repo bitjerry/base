@@ -1,4 +1,6 @@
 # base
+[![CN](https://img.shields.io/badge/Language-English-blue)](https://github.com/bitjerry/base/blob/main/README.md)
+[![APM](https://img.shields.io/badge/license-MIT-2345.svg)](https://github.com/bitjerry/base)
 >1. ***本工具完全采用c编写, 在Visual Studio, gun下编译测试通过***
 >2. ***建议使用c11标准, 代码段中变量的声明位置不见得兼容c99***
 >3. ***不依赖于任何第三方库, 未参考任何项目, 如有雷同纯属巧合***
@@ -73,3 +75,9 @@ int main() {
    这个问题, 应该事先同一编码, 一般是utf-8***
 3. ***代码做了一些边界判断, 但仍不排除可能存在的内存泄露, 应该注意`len`, `result`<br>
    的空间问题, 以及输入字符串的意外字符***
+   
+## License
+MIT © [bitjerry](https://github.com/bitjerry/base/blob/main/LICENSE)
+----------
+*2021/11/22
+*Mr.lin*

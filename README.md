@@ -1,4 +1,8 @@
 # base
+
+[![CN](https://img.shields.io/badge/Language-Chinese-red)](https://github.com/bitjerry/base/blob/main/README.zh-CN.md)
+[![APM](https://img.shields.io/badge/license-MIT-2345.svg)](https://github.com/bitjerry/base)
+
 >1. ***this tool is completely written in C, compiled and tested under visual studio and gun***
 >2. ***C11 standard is recommended, and the declaration position of variables in the code segment       is not necessarily compatible with C99***
 >3. ***does not rely on any third-party library and does not refer to any project. If there is any      similarity, it is pure coincidence***
@@ -69,3 +73,9 @@ int main() {
 3. ***code has made some boundary judgments, but it still does not rule out <br>
    possible memory leakage. It should be noted that`len`,`result` unexpected <br>
    characters in the input string***
+
+## License
+MIT © [bitjerry](https://github.com/bitjerry/base/blob/main/LICENSE)
+----------
+*2021/11/22
+*Mr.lin*
