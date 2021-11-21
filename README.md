@@ -60,8 +60,8 @@ int main() {
 	decode(str, strlen(str), result);
 	printf("%s", result);
 	return 0;
-}
-```
+}  //C
+``` //C
 > https://github.com/
 
 ## _Precautions_
