@@ -7,7 +7,7 @@ static int BIT = 0;
 static int DIFFER = 0;
 static char PAD = '=';
 
-int buildTable(char* table, unsigned char len, char pad) {
+int setTable(char* table, unsigned char len, char pad) {
 	if (table != NULL && len != 0){
 		TABLE = (unsigned char*)malloc(93 * sizeof(char));
 		for (unsigned char i = 0; i < len; i++) {
