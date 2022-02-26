@@ -1,6 +1,6 @@
 # base
 
-[![CN](https://img.shields.io/badge/Language-Chinese-red)](https://github.com/bitjerry/base/blob/main/README.zh-CN.md)
+[![CN](https://img.shields.io/badge/Language-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red)](https://github.com/bitjerry/base/blob/main/README.zh-CN.md)
 [![APM](https://img.shields.io/badge/license-MIT-2345.svg)](https://github.com/bitjerry/base)
 
 >1. ***this tool is completely written in C, compiled and tested under visual studio and gun***
